@@ -5,6 +5,8 @@ Make sure you have already installed:
 
 ```
 1. Python 3.6+
+2. fuzzywuzzy 0.18.0
+3. Tkinter
 ```
 ### Datasets used are from Lazada
 * [Kaggle Page](https://www.kaggle.com/grikomsn/lazada-indonesian-reviews)
