@@ -6,8 +6,8 @@ Make sure you have already installed:
 ```
 1. Python 3.6+
 ```
-### Datasets used are from UCI Datasets
-* [Lazada Indonesian Reviews](https://www.kaggle.com/grikomsn/lazada-indonesian-reviews)
+### Datasets used are from Lazada
+* [Kaggle Page](https://www.kaggle.com/grikomsn/lazada-indonesian-reviews)
 
 ### Here is what you're looking for!
 
