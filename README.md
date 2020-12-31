@@ -8,7 +8,7 @@ Make sure you have already installed:
 2. fuzzywuzzy 0.18.0
 3. Tkinter
 ```
-### Datasets used are from Lazada
+### Datasets used are from Kaggle - Lazada Indonesian Reviews
 * [Kaggle Page](https://www.kaggle.com/grikomsn/lazada-indonesian-reviews)
 
 ### Here is what you're looking for!
